@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "mystical-magnet-315402",
+  "private_key_id": "8f518299c2602f5d67feeceb15a556fbdc520b1a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDLIPWAHzUf+b2c\nvtzbnAT8dd7JnvWq9dbM75ZFqhUCcHqlV97a2256AH2mUJVPDj/TOt1UV8VniKHM\nHiBPxYmzOxawjPF3srn6UrUXzpcibFOuyf6IyOLdYG+oqMo+gQq4cl7XTNiqCn35\ntI2GBMbHC+hbGt3qDz6y4dgGV6hRJn7hVI4pr4mWHP1Xxs+dziJjSKu5JMEXvGHc\nSKtlLjoyTP8wcbHYrWxpkGOq+Gw2KSekef9Au5uWiq7J9q48Gm4g3WH0DdrNNSgf\nM4qjtX3pPKoJ5xUe7IJIQM/K2POGOiQ/gG2Ob3aGusbwBvoraQOo6iaJ3wkBqILL\n3EFgo2JPAgMBAAECggEAAyK3ch/eiRIo3CeSGeMXAfKr2r7qb0DWQlmcdJIt5YNo\n++5sUUKROlmRlvn9eWKbQkkmq4D4r3ggz0QpHtzKGwsuzCY7gAExSmzxFgn+s+2q\nKQjoi0yr5oZGPaXwC/ZKp72UOzdDd58r11PzL1Nu4hm2n4QS/Y74r82OsSJfRclk\nTQYm9fKzIHgwqs0RIJlKZxU538dkzfTpKMLQfvuweZw8lKxpGjvv1mtQjw44t07W\nbCOkLA8TWv0RCv9MUY2+oQVQ66T5sDgc5XJP3PCEyum9xCWBHdAVEFBTwR7wC1i+\nwwY3A7so7rMIWPIuxbwHFbtnEovCnvWnwwkaIF2GCQKBgQDkMHMJwMg9WkpyZVsW\n/d0wmRokhY6NpJn/8VPx1y0WbrP4UfI+G1xir1R9gcRGYrlCNqLivQFkTxq/M5tf\n84AwfX3XCUAPvZtySDyvg/faWenm5EWLcLadTttAZVnu10xndk/0nM48u2vvdxzb\n32VLfpz90atM3xnhony3gX/EYwKBgQDj4p3fe0sQYyIiRZJ0o7cqNZFldebcJNiM\nLOx6WA7w/ovng5JRlWjObJgZLtOKktqqjyRhgPcuEZmYsQJSXq+eh84OFx0U5tNg\nQJnouZThs0onzdbdRlOIQizxzZOkXm2q9lJ0kkVexlcYmGlNzngVLc4YHaHaUY3b\nRaoli+QAJQKBgAQxL6vaMtONuRho7Ed72nhuF6DcI0ZO49Vj5ZrnzRhAaGYDe2PQ\ntN3LQs4beDOi1Kx2vH9V4ZSqL1+b3xrgKla5t3of3WFsplJvKU5AKmmEhVuMjgqF\nw5UYQcbpFcHhirHL5qQjzVYoS09W7NzNOdstNE0lcPQ0lREkHw5v/pzpAoGBAIf1\nYDNBH9u7CVZhI6urMVBhfUmHOiEFapzXAI9Nkjx94YJSoS1DcrAVYflEUrlOPF+d\n3xq9ErvNjFHo6XWzQBvY8jq913/s5xd581lBv22YxhlRWWvS1Wtp796jw/5AyDVD\nmJYr3m9Y7gWiiND+6e3Y0ijZJQNXvMahnY2hFHpxAoGANb12RqRq4BeMEepjIARK\n382mx24qCeGjqAEPj8PslhgzzHweKTj5GZH63nUmHYOl47M/hn8ZrfL1SzPx31sD\nCNvYWeZgbfk06MKM5FESgBqjHRhRvxujqi+h4DMkP6fUWrxTsI498tiOPA/tWogl\nTnE8mpdRN89JLrpuUedPgjY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "terraform@mystical-magnet-315402.iam.gserviceaccount.com",
+  "client_id": "103995220496662046429",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/terraform%40mystical-magnet-315402.iam.gserviceaccount.com"
+}
